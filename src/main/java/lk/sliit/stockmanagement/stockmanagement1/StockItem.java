@@ -5,6 +5,7 @@ import java.time.LocalDate;
 
 public class StockItem {
 
+
     private String name;
     private int quantity;
     private LocalDate expiryDate;

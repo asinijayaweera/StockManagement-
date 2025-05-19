@@ -11,6 +11,7 @@ public class ViewStockServlet extends HttpServlet {
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
+
         request.getRequestDispatcher("viewStock.jsp").forward(request, response);
     }
 }

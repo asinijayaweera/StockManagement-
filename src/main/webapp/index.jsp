@@ -12,6 +12,7 @@
       color: #333;
     }
     ul {
+
       list-style: none;
       padding: 0;
     }

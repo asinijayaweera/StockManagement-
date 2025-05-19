@@ -12,6 +12,7 @@ public class DeleteStockServlet extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
 
+
         int index = Integer.parseInt(request.getParameter("index"));
         StockStack.stockItems.remove(index);
 
