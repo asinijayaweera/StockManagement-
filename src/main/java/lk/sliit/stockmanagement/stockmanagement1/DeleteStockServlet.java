@@ -8,6 +8,7 @@ import java.io.IOException;
 
 @WebServlet("/deleteStock")
 public class DeleteStockServlet extends HttpServlet {
+
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
 

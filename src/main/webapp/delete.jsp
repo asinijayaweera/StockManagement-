@@ -12,6 +12,7 @@
     <title>Confirm Delete</title>
     <style>
         body {
+
             font-family: Arial, sans-serif;
             background: #fff8f7;
             padding: 40px;

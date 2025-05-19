@@ -14,6 +14,7 @@
     <title>Update Stock</title>
     <style>
         body {
+
             font-family: Arial, sans-serif;
             background: #f5f7fa;
             padding: 30px;

@@ -9,6 +9,7 @@
             padding: 30px;
         }
         h2 {
+
             color: #333;
         }
         form {

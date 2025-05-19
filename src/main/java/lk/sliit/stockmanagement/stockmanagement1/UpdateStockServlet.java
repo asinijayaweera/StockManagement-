@@ -10,6 +10,7 @@ import java.time.LocalDate;
 
 @WebServlet("/updateStock")
 public class UpdateStockServlet extends HttpServlet {
+
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws IOException {
         int index = Integer.parseInt(request.getParameter("index"));
         String name = request.getParameter("name");

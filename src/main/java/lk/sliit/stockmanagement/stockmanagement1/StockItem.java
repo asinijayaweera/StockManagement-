@@ -4,6 +4,7 @@ package lk.sliit.stockmanagement.stockmanagement1;
 import java.time.LocalDate;
 
 public class StockItem {
+
     private String name;
     private int quantity;
     private LocalDate expiryDate;
